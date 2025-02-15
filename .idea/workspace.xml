@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="117b74a2-7472-46c0-b9e0-d7e871add50d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/controllers/studentController.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/includes/side-bar.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2sqddVRBJr0guk1f7EZAupkgVaS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/PC/Documents/TouristHub",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "web-ide.project.structure",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\Downloads\student_greading_system\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\student_greading_system\app" />
+      <recent name="L:\Downloads\student_greading_system\views" />
+      <recent name="L:\Downloads\student_greading_system" />
+      <recent name="L:\Downloads\student_greading_system\app\views" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="117b74a2-7472-46c0-b9e0-d7e871add50d" name="Changes" comment="" />
+      <created>1739187126431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739187126431</updated>
+      <workItem from="1739187131309" duration="6881000" />
+      <workItem from="1739233810877" duration="626000" />
+      <workItem from="1739251847244" duration="7000" />
+      <workItem from="1739266135960" duration="1000" />
+      <workItem from="1739284892287" duration="8398000" />
+      <workItem from="1739294071571" duration="4152000" />
+      <workItem from="1739322918023" duration="3044000" />
+      <workItem from="1739330167247" duration="297000" />
+      <workItem from="1739360901734" duration="3921000" />
+      <workItem from="1739365151507" duration="30000" />
+      <workItem from="1739476301375" duration="1568000" />
+      <workItem from="1739477903213" duration="16000" />
+      <workItem from="1739481198831" duration="33000" />
+      <workItem from="1739491366375" duration="511000" />
+      <workItem from="1739499447199" duration="153000" />
+      <workItem from="1739500242951" duration="1054000" />
+      <workItem from="1739502016414" duration="59000" />
+      <workItem from="1739502090136" duration="1314000" />
+      <workItem from="1739529839765" duration="3470000" />
+      <workItem from="1739575702344" duration="3091000" />
+      <workItem from="1739579591042" duration="2761000" />
+      <workItem from="1739586757511" duration="157000" />
+      <workItem from="1739588275666" duration="792000" />
+      <workItem from="1739590860748" duration="456000" />
+      <workItem from="1739621631409" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
