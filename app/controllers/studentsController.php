@@ -87,8 +87,8 @@ class studentsController
             error_log('Error',$e->getMessage());
             ErrorMessage::Error_SuccessMessage(false, "An error occurred while creating the student record.");
         }
-
     }
+
 }
 
 

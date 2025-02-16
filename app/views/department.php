@@ -7,12 +7,10 @@
         content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
         name="viewport"
     />
-    <link
-        rel="icon"
-        href="../../assets/img/kaiadmin/favicon.ico"
-        type="image/x-icon"
-    />
 
+<?php
+  include '../../includes/cdn-links';
+?>
     <!-- Fonts and icons -->
     <script src="../../assets/js/plugin/webfont/webfont.min.js"></script>
     <script>
@@ -21,7 +19,7 @@
             custom: {
                 families: [
                     "Font Awesome 5 Solid",
-                    "Font Awesome 5 Regular",
+                    "Font Awes  ome 5 Regular",
                     "Font Awesome 5 Brands",
                     "simple-line-icons",
                 ],
@@ -181,7 +179,7 @@
                         <div class="card-header">
                             <div class="d-flex justify-content-between align-items-center">
                                 <h4 class="card-title">Department List</h4>
-                                <button class="btn btn-primary btn-smo" data-bs-target="#Add_new_subject_modal" data-bs-toggle="modal">
+                                <button class="btn btn-primary btn-smo" data-bs-target="#createDepartmentModal" data-bs-toggle="modal">
                                 <i class="fa fa-plus"></i>
                                    Departmant
                                 </button>
@@ -285,6 +283,8 @@
 
 <!-- Kaiadmin JS -->
 <script src="../../assets/js/kaiadmin.min.js"></script>
+
+<script src="../jQuery/department.js"></script>
 </body>
 </html>
 <script>

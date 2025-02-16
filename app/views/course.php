@@ -272,6 +272,7 @@
 
 <!-- Kaiadmin JS -->
 <script src="../../assets/js/kaiadmin.min.js"></script>
+<script src="../jQuery/course.js"></script>
 </body>
 </html>
 <script>

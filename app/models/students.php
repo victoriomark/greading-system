@@ -41,10 +41,11 @@ class students extends Connection
                 ErrorMessage::Error_SuccessMessage(true,'Successfully Added New Student');
             }
 
+            $stmt->close();
 
         }catch(Exception $e){
-            error_log('Error',$e->getMessage());
-            ErrorMessage::Error_SuccessMessage(false,'Failed to Add student');
+            error_log('Error'.$e->getMessage());
+            ErrorMessage::Error_SuccessMessage(false,'An error accured while creating New Student');
         }
     }
 
@@ -68,6 +69,9 @@ class students extends Connection
          if ($result->num_rows > 0) {
           return true;
         }
+        
+        $stmt->close();
+
        }catch(Exception $e){
            error_log('Error'.$e->getMessage());
        }
